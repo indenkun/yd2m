@@ -1,0 +1,13 @@
+Package: yd2m
+Type: Package
+Title: Converted from pound-yard system to metric system
+Version: 0.0.9
+Author: indenkun
+Maintainer: indenkun <blog@indenkun.hantenablog.com>
+Description: Converts input lengths from inches, feet, yards and chains to meters from 
+    each other. Converts input weights to each other from pounds, ounces, and grains to 
+    kilograms. Converts the input temperature to each other in Fahrenheit and Celsius.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.1
